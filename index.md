@@ -4,7 +4,7 @@ title: Deb | University of British Columbia, Canada
 ---
 	
 	
-# Debasish Ray Mohapatra (Deb) #
+## Debasish Ray Mohapatra (Deb) ##
 
 <img src="img/profileimg1.jpg" alt="Photo" class="leftside_image" width="480" height="700">
 

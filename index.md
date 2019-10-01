@@ -6,7 +6,7 @@ title: Deb | University of British Columbia, Canada
 	
 # Debasish Ray Mohapatra #
 
-<img src="img/profileimg1.jpg" alt="Photo" class="leftside_image" width="480" height="700">
+<img src="img/Capture.JPG" alt="Photo" class="leftside_image">
 
 Hi! I am Deb. And I am a master(MASc) student in [Electrical and Computer Engineering](http://www.ece.ubc.ca/) at the University of British Columbia, Canada, advised by [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels) and [Victor Zappi](https://toomuchidle.com/). Currently, I am affiliated with [HCT Lab](http://hct.ece.ubc.ca/).
 

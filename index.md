@@ -14,7 +14,7 @@ Previously, I obtained my B.E. in Electronics and Communication Engineering (ECE
 
 Currently, I am modelling a **human vocal tract** that could help us in designing a **real-time articulatory speech synthesis**. Read about my research [here](/projects).
 
-Outside of research, I love [running](https://www.strava.com/athletes/45967561) and [street photography](https://500px.com/debasishraymohapatra). Occasionally, I write in [Odia](/MyWriting). 
+Outside of research, I love [running](https://www.strava.com/athletes/45967561) and [street photography](https://500px.com/debasishraymohapatra). Occasionally, I write in [Odia](/mywriting). 
 			
 Email: `d_dot_mohapatra_at_alumni_dot_ubc_dot_ca`
 

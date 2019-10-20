@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MyWriting
+title: mywriting
 ---
 To know more about Oriya/Odia language, check [Wikipedia](https://en.wikipedia.org/wiki/Odia_language) or [Britannica](https://www.britannica.com/topic/Oriya-language)
 

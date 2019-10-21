@@ -80,7 +80,7 @@ To know more about Oriya/Odia language, check [Wikipedia](https://en.wikipedia.o
 **Puruna Smruti (ପୁରୁଣା ସ୍ମୃତି)**
 
 କିଛିଟା ପୁରୁଣା ସ୍ମୃତି<br>
-ଶୀତ ସକାଳର କାକର ତଳେ ଓଢା,<br><br>
+ଶୀତ ସକାଳର କାକର ତଳେ ଓଢା,<br>
 ଆଉ କିଛିଟା ଅଭୂଲା ଅନୁଭୂତି...<br>
 
 ତୋ ସାଥେ ବାଣ୍ଟିଛି,<br>

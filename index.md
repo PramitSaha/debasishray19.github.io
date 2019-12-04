@@ -7,7 +7,7 @@ title: Deb | University of British Columbia
 
 <img src="img/Capture.JPG" alt="Photo" class="leftside_image">
 
-Hello everyone, my name is Deb and I am a graduate (M.A.Sc-Master in applied science) student in [Electrical and Computer Engineering](http://www.ece.ubc.ca/) at the University of British Columbia, Canada, advised by [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels) and [Victor Zappi](https://toomuchidle.com/). Currently, I am affiliated with [HCT Lab](http://hct.ece.ubc.ca/).
+Hello everyone, my name is Deb and I am a graduate (Master In Applied Science) student in [Electrical and Computer Engineering](http://www.ece.ubc.ca/) at the University of British Columbia, Canada, advised by [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels) and [Victor Zappi](https://toomuchidle.com/). Currently, I am affiliated with [HCT Lab](http://hct.ece.ubc.ca/).
 
 Previously, I obtained my B.E. in Electronics and Communication Engineering (ECE) department from [S'O'A University](https://www.soa.ac.in/iter). Before coming to UBC, I worked as a software test engineer at [Tata Consultancy Services](https://www.tcs.com/) for three years.
 

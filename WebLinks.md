@@ -6,4 +6,4 @@ title: Useful Weblinks
 ---
 
 ### Some useful weblinks for my reference
-* [How to write an abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
+* <a href="https://users.ece.cmu.edu/~koopman/essays/abstract.html" target="_blank">How to write an abstract</a>

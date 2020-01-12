@@ -4,7 +4,7 @@ title: Research
 ---
 ### Media
 
-Our work has been featured here:
+My work has been featured here:
 
 * UBC ECE Graduate student [newsletter](https://secure.campaigner.com/csb/Public/show/g94h-lkm--3b4g4c-cp6de9), Interspeech 2019 conference paper
 

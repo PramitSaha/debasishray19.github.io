@@ -17,4 +17,4 @@ My work has been featured here:
 
 * **DR Mohapatra** and Sidney Fels, *"Limitations Of Source-Filter Coupling In Phonation"* *Canadian Acoustics 46(4) pp60-61, 2018. [[paper]](https://arxiv.org/abs/1811.07435)*
 
-* P. Saha, **DR Mohapatra**, Praneeth SV and Sidney Fels, *Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis*; *Canadian Acoustics 46(4) pp58-59, 2018. [[paper]](https://arxiv.org/abs/1811.08029)*
+* P. Saha, **DR Mohapatra**, Praneeth SV and Sidney Fels, *"Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis"*; *Canadian Acoustics 46(4) pp58-59, 2018. [[paper]](https://arxiv.org/abs/1811.08029)*

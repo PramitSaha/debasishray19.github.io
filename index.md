@@ -5,8 +5,6 @@ title: Deb | University of British Columbia
 		
 # Debasish Ray Mohapatra #
 
-<img src="img/Capture2.jpg" width ="450" height="600" alt="Photo" class="leftside_image">
-
 Hello! I am a graduate student in [Electrical and Computer Engineering](http://www.ece.ubc.ca/) at the University of British Columbia, Canada, advised by [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels) and [Victor Zappi](https://toomuchidle.com/). Currently, I am affiliated with [HCT Lab](http://hct.ece.ubc.ca/).
 
 Previously, I obtained my B.E. in Electronics and Communication Engineering (ECE) department from [S'O'A University](https://www.soa.ac.in/iter). Before coming to UBC, I worked as a software test engineer at [Tata Consultancy Services](https://www.tcs.com/) for three years.

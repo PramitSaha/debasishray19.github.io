@@ -11,7 +11,7 @@ To know more about Oriya/Odia language, check [Wikipedia](https://en.wikipedia.o
 କଳା ପାହାଡ଼ ସମ<br>
 ଘନ ଅନ୍ଧକାର…<br>
 
-ସେ ପାହାଡ଼ ଲଙ୍ଘି ତୋତେ<br>
+ସେ ପାହାଡ଼ ଲଙ୍ଘି<br>
 ଉଡିିବାକୁ ହେବ ତୋତେ ଆଜି<br>
 ଖୋଜିବାକୁ ପୁଣି ଥରେ<br>
 ତୋ ମନର ମୁକ୍ତ ବିହଙ୍ଗ ।<br>
